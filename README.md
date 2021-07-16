@@ -12,6 +12,6 @@ I'm a front-end development student at Turing School of Software & Design.
  
 ### Projects
 
-All of my repos are school projects and assignments so far, illustrating my coding journey.
+Thus far, all of my repositories are school projects, illustrating my coding journey.
 
 My largest projects are pinned below. Please lt me know if you have any questions.
