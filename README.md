@@ -1,8 +1,4 @@
-<!-- # [![hayleyw7 header](https://media-exp3.licdn.com/dms/image/C4E16AQGGabAPXI2Ccg/profile-displaybackgroundimage-shrink_200_800/0/1551114223629?e=1631750400&v=beta&t=nh2F3jlPlBePxvLbdeKwttopIa_kxWvWP6GR9dv08LQ)](https://www.linkedin.com/in/hayleywitherell/) -->
-
-<p align='left'>
-<a href="https://www.linkedin.com/in/hayleywitherell/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+# [![HEADER](https://pilbox.themuse.com/image.png?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fattachments%2F18608.png%3Fv%3D61b60a16a96aa7da828dfe5d6a9be3306ed446c4468a4ed62798936289d5371a&prog=1&w=1000)](https://www.linkedin.com/in/hayleywitherell/)
 
 Hi there! 👋,
 
@@ -14,4 +10,4 @@ I'm a front-end development student at Turing School of Software & Design.
 
 Thus far, all of my repositories are school projects, illustrating my coding journey.
 
-My largest projects are pinned below. Please lt me know if you have any questions.
+My largest projects are pinned below.
