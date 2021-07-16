@@ -10,4 +10,4 @@ I'm a front-end development student at Turing School of Software & Design.
 
 Thus far, all of my repositories are school projects, illustrating my coding journey.
 
-My largest projects are pinned below.
+The largest programs and sites are pinned below.
