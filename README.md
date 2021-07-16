@@ -8,6 +8,6 @@ I'm a front-end development student at Turing School of Software & Design.
  
 ### Projects
 
-Thus far, all of my repositories are school projects, illustrating my coding journey.
+Thus far, all of my repositories have been school projects, illustrating my coding journey.
 
-The largest programs and sites are pinned below.
+The largest programs & sites are pinned below.
