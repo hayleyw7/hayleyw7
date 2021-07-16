@@ -1,4 +1,4 @@
-# [![HEADER](https://libg.s3.us-east-2.amazonaws.com/download/1435/1435-Its-Time-To-Program-Something.jpg)](https://www.linkedin.com/in/hayleywitherell/)
+# [![HEADER](https://libg.s3.us-east-2.amazonaws.com/download/1435/1435-State-Function-Return.jpg)](https://www.linkedin.com/in/hayleywitherell/)
 
 Hi there! 👋,
 
