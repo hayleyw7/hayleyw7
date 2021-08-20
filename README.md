@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I'm a front-end development student at Turing School of Software & Design.
+I'm a front-end developer, and I am currently in Module 3 at Turing School of Software & Design.
 
 ---
  
