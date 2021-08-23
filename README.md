@@ -10,7 +10,7 @@ During the last decade, I managed teams who launched successful new businesses, 
 
 I recognized a lack of representation and resources in these roles, which motivated me to help my community by getting an education in front-end development at Turing School of Software & Design. My propensity for empathy and accessibility have led me to place considerable focus on a variety of user experiences and representation.
 
-As a software developer, my specialties include JavaScript ES6, React, Cypress, Sass, HTML5, & web accessibility. I am seeking a mutually beneficial role that fosters collaboration, growth, and intersectionality. If your team has an opportunity that fits, please reach out to hayleywitherell@gmail.com.
+As a software developer, my specialties include JavaScript ES6, React, Cypress, Sass, & HTML5. I am seeking a mutually beneficial role that fosters collaboration, growth, and intersectionality.
 
 ---
 
