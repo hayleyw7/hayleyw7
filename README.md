@@ -2,9 +2,7 @@
 
 ### Introduction
 
-Hello! My name is Hayley. I'm a front-end developer, & I am currently a software engineer in Module 3 at Turing School of Software & Design.
-
-I am always seeking ways to utilize my experience with front-end engineering, the cannabis industry, community organization, and start-ups.
+Hello! My name is Hayley. I'm a front-end developer, I am currently a software engineer in at Turing School of Software & Design, & I am always seeking ways to utilize my experience with front-end engineering, the cannabis industry, community organization, and start-ups.
 
 During the last decade, I managed teams who launched successful new businesses, including multiple dispensaries and an analytical testing laboratory network. While outside of the office, I used the skills garnered from cannabis industry experience to co-found two organizations: a grassroots political enterprise and a worker's rights advocation association.
 
