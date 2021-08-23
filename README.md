@@ -1,8 +1,8 @@
 # [![HEADER](./banner-flowers.jpg)](https://www.linkedin.com/in/hayleywitherell/)
 
-### Hi there! 👋
+### Introduction
 
-I'm a front-end developer, and I am currently in Module 3 at Turing School of Software & Design.
+Hello! My name is Hayley, I'm a front-end developer, and I am currently a software engineer in Module 3 at Turing School of Software & Design.
 
 ---
 
