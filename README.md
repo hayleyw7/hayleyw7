@@ -2,13 +2,13 @@
 
 ### Introduction
 
-Hello! My name is Hayley, I'm a front-end developer, and I am currently a software engineer in Module 3 at Turing School of Software & Design.
+Hello! My name is Hayley. I'm a front-end developer, & I am currently a software engineer in Module 3 at Turing School of Software & Design.
 
 ---
 
 ### Job History
 
-My resume, job history, skills, endorsements, certifications, and professional achievements are located on my [LinkedIn profile](https://www.linkedin.com/in/hayleywitherell/).
+My resume, job history, skills, endorsements, certifications, & professional achievements are located on my [LinkedIn profile](https://www.linkedin.com/in/hayleywitherell/).
 
 ---
  
