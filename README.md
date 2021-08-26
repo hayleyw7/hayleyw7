@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I enjoy combining my experience with development, the cannabis industry, community organization, & start-ups.
+I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, & start-ups.
 
 As a software developer, my specialties include JavaScript ES6, React, TDD, Sass, & HTML5.
 
