@@ -10,6 +10,6 @@ As a software developer, my specialties include JavaScript ES6, React, TDD, Sass
  
 ### Portfolio
 
-Thus far, all of my repositories have been school projects, illustrating my coding journey.
+Thus far, all of my repositories have been school projects, documenting my coding journey from JavaScript ES5 to implementing ES6 into React.
 
-The largest programs & sites are pinned below.
+My largest applications are pinned below.
