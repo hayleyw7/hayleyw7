@@ -4,9 +4,10 @@
 
 Hi! My name is Hayley, & I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, & start-ups.
 
----
-
-### Technologies
+<section align="center">
+  <a href="https://www.linkedin.com/in/allison-dietz/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+</section>
 
 <p style="text-align:center;">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
