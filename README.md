@@ -47,7 +47,7 @@ Hi! My name is Hayley, & I enjoy combining my experience with front-end engineer
   <img alt="WearOS" src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white"/>
 </p>
 
-#### Application Familiarity & Administration
+#### Application Administration & Experience
 
 <p>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
