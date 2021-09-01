@@ -2,15 +2,9 @@
 
 ### Introduction
 
-I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, & start-ups.
+Hi! My name is Hayley, & I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, & start-ups.
 
-As a software developer, my specialties include JavaScript ES6, React, TDD, Sass, & HTML5.
-
----
-
-### Job History
-
-My resume, job history, skills, endorsements, volunteer experience, education, certifications, & professional achievements are located on my [LinkedIn profile](https://www.linkedin.com/in/hayleywitherell/). 
+As a software developer, my specialties include JavaScript ES6, React, TDD, Sass, & HTML5. More of my skills are located on my [LinkedIn profile](https://www.linkedin.com/in/hayleywitherell/), along with my resume, experience, & endorsements/recommendations.
 
 ---
  
