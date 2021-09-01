@@ -10,6 +10,6 @@ As a software developer, my specialties include JavaScript ES6, React, Cypress, 
  
 ### Portfolio
 
-Thus far, all of my repositories have been school projects, documenting my coding journey from learning JavaScript ES5 to implementing ES6 into React.
+Thus far, all of my repositories have been school projects, documenting my coding journey from learning vanilla JavaScript to implementing a framework.
 
 My largest applications are pinned below.
