@@ -1,4 +1,4 @@
-# [![HEADER](./banner-flowers.jpg)](https://www.linkedin.com/in/hayleywitherell/)
+# [![HEADER](./github-banner.png)](https://www.linkedin.com/in/hayleywitherell/)
 
 ### Introduction
 
