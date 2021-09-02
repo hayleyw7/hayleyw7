@@ -2,17 +2,15 @@
 
 ### Introduction
 
-<p align='right'>
-  <img align='right' alt='Hayley's GitHub stats' src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">                                                                                          
+<p align="right">
+  <img align="right" alt="Hayley's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">
 </p>
                                              
 <div align="left">  
   
-  Hi! My name is Hayley!
+  Hi! I am a front-end developer named Hayley.
 
-  I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, design, & start-ups.
-
-  Thus far, all of my GitHub repositories have been school projects, documenting my coding journey from learning vanilla JavaScript to implementing a framework.
+  My GitHub portfolio is populated with Turing School of Software projects, which form a timeline of my coding journey from learning vanilla JavaScript to implementing a framework.
 
   My largest applications are pinned below this README.
                                                 
