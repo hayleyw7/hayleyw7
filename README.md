@@ -6,6 +6,10 @@ Hi! My name is Hayley!
 
 I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, design, & start-ups.
 
+Thus far, all of my GitHub repositories have been school projects, documenting my coding journey from learning vanilla JavaScript to implementing a framework.
+
+My largest applications are pinned below this README.
+
 ![Hayley's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko)
 
 <p>
@@ -69,11 +73,3 @@ I enjoy combining my experience with front-end engineering, the cannabis industr
   <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)"/>
   <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
 </p>
-  
----
- 
-### Portfolio
-
-Thus far, all of my repositories have been school projects, documenting my coding journey from learning vanilla JavaScript to implementing a framework.
-
-My largest applications are pinned below.
