@@ -2,20 +2,28 @@
 
 ### Introduction
 
-Hi! My name is Hayley!
-
-I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, design, & start-ups.
-
-Thus far, all of my GitHub repositories have been school projects, documenting my coding journey from learning vanilla JavaScript to implementing a framework.
-
-My largest applications are pinned below this README.
-
-![Hayley's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko)
-
-<p>
-  <a href="https://www.linkedin.com/in/allison-dietz/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-  <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align='right'>
+  <img align='right' alt='Hayley's GitHub stats' src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">                                                                                          
 </p>
+                                             
+<div align="left">  
+  
+  Hi! My name is Hayley!
+
+  I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, design, & start-ups.
+
+  Thus far, all of my GitHub repositories have been school projects, documenting my coding journey from learning vanilla JavaScript to implementing a framework.
+
+  My largest applications are pinned below this README.
+                                                
+  <p>
+      <a href="https://www.linkedin.com/in/allison-dietz/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+      <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  
+</div>
+                                               
+
 
 ---
 
