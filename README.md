@@ -12,7 +12,7 @@
 
   My portfolio here is populated with Turing School of Software & Design projects, which form a timeline of my coding journey, from learning vanilla JavaScript to implementing a framework.
 
-  My largest applications are pinned below this README.
+  My largest applications are pinned below.
                                                 
   <p>
       <a href="https://www.linkedin.com/in/allison-dietz/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
