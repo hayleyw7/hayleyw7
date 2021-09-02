@@ -2,7 +2,9 @@
 
 ### Introduction
 
-Hi! My name is Hayley, & I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, & start-ups.
+Hi! My name is Hayley!
+
+I enjoy combining my experience with front-end engineering, the cannabis industry, community organization, design, & start-ups.
 
 ![Hayley's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko)
 
