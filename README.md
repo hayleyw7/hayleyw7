@@ -10,7 +10,7 @@
   
   Hi! I am a front-end developer named Hayley.
 
-  My GitHub portfolio is populated with Turing School of Software projects, which form a timeline of my coding journey from learning vanilla JavaScript to implementing a framework.
+  My portfolio here is populated with Turing School of Software & Design projects, which form a timeline of my coding journey, from learning vanilla JavaScript to implementing a framework.
 
   My largest applications are pinned below this README.
                                                 
