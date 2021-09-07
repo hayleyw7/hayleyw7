@@ -21,8 +21,6 @@
   
 </div>
                                                
-
-
 ---
 
 ### Technologies
@@ -39,7 +37,7 @@
   <img alt="YAML" src="https://img.shields.io/badge/YAML-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
 </p>
 
-#### Builds, Package Management, Version Control
+#### Builds, Package Management, & Version Control
 
 <p>
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>  
