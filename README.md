@@ -8,9 +8,7 @@
                                              
 <div align="left">  
   
-  Hi! I am a software developer named Hayley.
-
-  My portfolio here is populated with Turing School of Software & Design projects, which form a timeline of my coding journey, from learning vanilla JavaScript to implementing a framework.
+  Hi! I'm Hayley. My GitHub account is populated with [Turing School of Software & Design](https://turing.edu/) projects, which form a timeline of my coding journey, from learning vanilla JavaScript to implementing a framework.
 
   My largest applications are pinned below.
                                                 
