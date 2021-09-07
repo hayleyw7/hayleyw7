@@ -44,7 +44,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>   
-  <img alt="Surge" src="https://img.shields.io/badge/Surge-%23117AC9.svg?style=for-the-badge&logo=micro.blog&logoColor=white"/>
+  <img alt="Surge" src="https://img.shields.io/badge/Surge-%232E7EEA.svg?style=for-the-badge&logo=strapi"/>
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
 </p>
 
