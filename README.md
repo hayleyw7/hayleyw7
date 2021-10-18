@@ -8,7 +8,7 @@
                                              
 <div align="left">  
   
-  Hi! I'm Hayley. My GitHub account is populated with [Turing School of Software & Design](https://turing.edu/) projects, which form a timeline of my coding journey, from learning vanilla JavaScript to implementing a framework.
+  Hi! I'm Hayley. My GitHub account was first populated with projects assigned at [Turing School of Software & Design](https://turing.edu/), which form a timeline of my coding journey, from learning vanilla JavaScript to implementing a framework. Now, I now add applications I create for fun, friends, and businesses.
 
   My largest applications are pinned below.
                                                 
