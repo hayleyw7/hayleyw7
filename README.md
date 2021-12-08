@@ -15,7 +15,7 @@
   My largest applications are pinned below.
                                                 
   <p>
-      <a href="https://www.linkedin.com/in/allison-dietz/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+      <a href="https://www.linkedin.com/in/hayleywitherell/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
       <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
   
