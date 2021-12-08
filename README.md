@@ -8,7 +8,7 @@
                                              
 <div align="left">  
   
-  Hi! I'm Hayley. I'm a software enginee who helps to build a cloud-based process data management & analysis software.
+  Hi! I'm Hayley. I'm a softwarer enginee who helps to build a cloud-based process data management & analysis software.
   
   This is my personal account, which I first used through coding school, and I now use to make applications for pleasure.
 
@@ -39,8 +39,8 @@
 
 <p> 
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>   
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>  
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>   
   <img alt="Surge" src="https://img.shields.io/badge/Surge-%232E7EEA.svg?style=for-the-badge&logo=strapi"/>
