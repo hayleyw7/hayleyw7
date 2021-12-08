@@ -8,7 +8,7 @@
                                              
 <div align="left">  
   
-  Hi! I'm Hayley. I'm a softwarer enginee who helps to build a cloud-based process data management & analysis software.
+  Hi! I'm Hayley. I'm a softwarer engineer who helps build a cloud-based process data management & analysis software.
   
   This is my personal account, which I first used through coding school, and I now use to make applications for pleasure.
 
