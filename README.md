@@ -10,7 +10,7 @@
   
   Hi! I'm Hayley. I'm a softwarer engineer who helps build cloud-based process data management & analysis software.
   
-  This is my personal account, which I first used through coding school, and I now use to make applications for pleasure.
+  This is my personal account, which I use to learn new skills and create just-for-fun applications.
 
   My favorite applications are pinned below.
                                                 
