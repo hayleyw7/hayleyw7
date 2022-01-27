@@ -37,11 +37,12 @@
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
 
-#### Back-End Languages & Frameworks
+#### Back-End Languages & Frameworks (actively learning)
 
 <p>
   <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
 
 #### Tools
@@ -73,7 +74,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/> 
   <img alt="RunJS" src="https://img.shields.io/badge/RunJS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>   
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>   
 </p>
 
 #### Design & Content Creation
