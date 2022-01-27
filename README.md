@@ -69,12 +69,12 @@
 
 <p>
   <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-  <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+  <img alt="MacOS" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
   <img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>    
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/> 
   <img alt="RunJS" src="https://img.shields.io/badge/RunJS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
-  <img alt="VS Code" src="https://img.shields.io/badge/VS Code-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>   
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>   
 </p>
 
 #### Design & Content Creation
