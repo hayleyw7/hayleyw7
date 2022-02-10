@@ -25,7 +25,7 @@
 
 ### Technologies
 
-#### Front-End Languages & Frameworks
+#### FE Languages & Frameworks
 
 <p>
   
@@ -56,7 +56,7 @@
 </p>
  
 
-#### Back-End Languages & Frameworks (actively learning)
+#### BE Languages & Frameworks (actively learning)
 
 <p>
   
