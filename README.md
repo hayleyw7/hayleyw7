@@ -143,7 +143,7 @@
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
   
   <a href="https://replit.com/">
