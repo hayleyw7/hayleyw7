@@ -147,7 +147,7 @@
   </a>
   
   <a href="https://replit.com/">
-    <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
+    <img alt="Repl.it" src="https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
   </a>
   
   <a href="https://code.visualstudio.com/">
