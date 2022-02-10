@@ -62,31 +62,62 @@
 #### Testing
 
 <p>
-  <a href="#"><img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/></a>
-  <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/></a>
-  <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/></a>
+  <a href="https://www.chaijs.com/">
+    <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
+  </a>
+  <a href="https://www.cypress.io/">
+    <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+  </a>
+  <a href="https://mochajs.org/">
+    <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
+  </a>
 </a>
 
 #### Environments & Operating Systems
 
 <p>
-  <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/></a>
-  <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
-  <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/></a>
-  <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-  <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/></a>
-  <a href="#"><img alt="RunJS" src="https://img.shields.io/badge/RunJS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
+  <a href="https://atom.io/">
+    <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
+  </a>
+  <a href="https://www.apple.com/macos/">
+    <img alt="MacOS" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+  </a>
+  <a href="https://codepen.io/">
+    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
+  </a>
+  <a href="https://www.google.com/chrome/">
+    <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://replit.com/">
+    <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
+  </a>
+  <a href="https://runjs.app/">
+    <img alt="RunJS" src="https://img.shields.io/badge/RunJS-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="VS Code" src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  </a>
 </p>
 
 #### Design & Content Creation
 
 <p>
-  <a href="#"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
-  <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/></a>
-  <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href=""><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/></a>
+  <a href="https://www.canva.com/">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.gimp.org/">
+    <img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://wordpress.com/">
+    <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  </a>
 </p>
