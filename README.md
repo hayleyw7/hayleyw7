@@ -122,7 +122,7 @@
   
 </p>
 
-#### Environments & Operating Systems
+#### Environments
 
 <p>
   
