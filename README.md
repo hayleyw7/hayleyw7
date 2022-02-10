@@ -28,35 +28,61 @@
 #### Front-End Languages & Frameworks
 
 <p>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-  <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
-  <a href="#"><img alt="JSX" src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-  <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+  <a href="https://jquery.com/">
+    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+  <a href="https://sass-lang.com/">
+    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+  </a>
 </p>
  
 
 #### Back-End Languages & Frameworks (actively learning)
 
 <p>
-  <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/></a>
-  <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></a>
-  <a href="#"><img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/></a>
+  <a href="https://rubyonrails.org/">
+    <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  </a>
+  <a href="https://www.ruby-lang.org/">
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+  </a>
+  <a href="https://www.slimframework.com/">
+    <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  </a>
 </a>
 
 #### Tools
 
 <p>
-  <a href="#"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-  <a href="#"><img alt="Kendo" src="https://img.shields.io/badge/Kendo-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/></a>
-  <a href="#"><img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
-  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/></a>
-  <a href="#"><img alt="Surge" src="https://img.shields.io/badge/Surge-%232E7EEA.svg?style=for-the-badge&logo=strapi"/></a>
-  <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/></a>
+  <a href="https://eslint.org/">
+    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hayleyw7">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://demos.telerik.com/kendo-ui/grid/index">
+    <img alt="Kendo" src="https://img.shields.io/badge/Kendo-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  </a>
+  <a href="https://plotly.com/">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+  </a>
+  <a href="https://surge.sh/">
+    <img alt="Surge" src="https://img.shields.io/badge/Surge-%232E7EEA.svg?style=for-the-badge&logo=strapi"/>
+  </a>
 </p>
 
 #### Testing
