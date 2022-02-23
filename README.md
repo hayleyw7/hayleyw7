@@ -8,15 +8,12 @@
                                              
 <div align="left">  
   
-  Hi! I'm Hayley. I'm a software engineer who helps build cloud-based process data management & analysis software.
+  I'm a software engineer who works on cloud-based data analysis software by day, plus whatever other strange side-projects or tools are inspiring me by night.
   
-  This is my personal account, which I use to learn new skills and create just-for-fun projects.
-
-  My favorite applications are pinned below.
+  This is my personal account. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
                                                 
   <p>
       <a href="https://www.linkedin.com/in/hayleywitherell/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-      <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
   
 </div>
@@ -25,9 +22,13 @@
 
 ### Technologies
 
-#### FE Languages & Frameworks
+#### Languages & Frameworks
 
 <p>
+  
+  <a href="https://getbootstrap.com/docs/4.0/content/code/">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
   
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -49,23 +50,16 @@
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
   
-  <a href="https://sass-lang.com/">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-  </a>
-  
-</p>
- 
-
-#### BE Languages & Frameworks (actively learning)
-
-<p>
-  
   <a href="https://rubyonrails.org/">
     <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
   
   <a href="https://www.ruby-lang.org/">
     <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+  </a>
+  
+  <a href="https://sass-lang.com/">
+    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
   
   <a href="https://www.slimframework.com/">
@@ -77,13 +71,21 @@
 #### Tools
 
 <p>
+
+  <a href="https://circleci.com/">
+    <img alt="CircleCI" src="https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
+  </a>
   
   <a href="https://eslint.org/">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/hayleyw7">
+  <a href="https://github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://demos.telerik.com/kendo-ui/grid/index">
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
   
   <a href="https://demos.telerik.com/kendo-ui/grid/index">
@@ -107,6 +109,10 @@
 #### Testing
 
 <p>
+
+  <a href="https://github.com/teamcapybara/capybara/">
+    <img alt="Capybara" src="https://img.shields.io/badge/Capybara-40826D?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  </a>
   
   <a href="https://www.chaijs.com/">
     <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
@@ -135,11 +141,7 @@
   </a>
   
   <a href="https://codepen.io/">
-    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
-  </a>
-  
-  <a href="https://www.google.com/chrome/">
-    <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-%23E5E5E5?style=for-the-badge&logo=codepen&logoColor=black"/>
   </a>
   
   <a href="https://nodejs.org/en/">
@@ -156,20 +158,3 @@
   
 </p>
 
-#### Design & Content Creation
-
-<p>
-  
-  <a href="https://www.canva.com/">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.gimp.org/">
-    <img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-  </a>
-  
-  <a href="https://wordpress.com/">
-    <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  </a>
-  
-</p>
