@@ -10,7 +10,7 @@
   
   Hi! I'm Hayley. I'm a software engineer who helps build cloud-based process data management & analysis software & also has a passion for art & design.
   
-  This is my personal account, which I use to learn new skills and create just-for-fun projects. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs]).
+  This is my personal account, which I use to learn new skills and create just-for-fun projects. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
 
   My favorite applications are pinned below.
                                                 
