@@ -11,13 +11,13 @@
   Hi! I'm Hayley. I'm a software engineer who helps build cloud-based process data management & analysis software & also has a passion for art & design.
   
   This is my personal account, which I use to learn new skills and create just-for-fun projects. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
-
-  My favorite applications are pinned below.
                                                 
   <p>
       <a href="https://www.linkedin.com/in/hayleywitherell/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
       <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+  
+My favorite applications are pinned below the "Technologies" section.
   
 </div>
                                                
@@ -77,6 +77,10 @@
 #### Tools
 
 <p>
+
+  <a href="https://getbootstrap.com/docs/4.0/content/code/">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
   
   <a href="https://eslint.org/">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
