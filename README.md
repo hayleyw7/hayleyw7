@@ -25,9 +25,13 @@ My favorite applications are pinned below the "Technologies" section.
 
 ### Technologies
 
-#### FE Languages & Frameworks
+#### Languages & Frameworks
 
 <p>
+  
+  <a href="https://getbootstrap.com/docs/4.0/content/code/">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
   
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -49,23 +53,16 @@ My favorite applications are pinned below the "Technologies" section.
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
   
-  <a href="https://sass-lang.com/">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-  </a>
-  
-</p>
- 
-
-#### BE Languages & Frameworks (actively learning)
-
-<p>
-  
   <a href="https://rubyonrails.org/">
     <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
   
   <a href="https://www.ruby-lang.org/">
     <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+  </a>
+  
+  <a href="https://sass-lang.com/">
+    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
   
   <a href="https://www.slimframework.com/">
@@ -77,17 +74,17 @@ My favorite applications are pinned below the "Technologies" section.
 #### Tools
 
 <p>
-
-  <a href="https://getbootstrap.com/docs/4.0/content/code/">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
   
   <a href="https://eslint.org/">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/hayleyw7">
+  <a href="https://github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://demos.telerik.com/kendo-ui/grid/index">
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
   
   <a href="https://demos.telerik.com/kendo-ui/grid/index">
