@@ -111,7 +111,7 @@
 <p>
 
   <a href="https://github.com/teamcapybara/capybara/">
-    <img alt="Capybara" src="https://img.shields.io/badge/Capybara-FF7139?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+    <img alt="Capybara" src="https://img.shields.io/badge/Capybara-40826D?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
   
   <a href="https://www.chaijs.com/">
