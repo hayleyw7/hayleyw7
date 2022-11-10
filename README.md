@@ -156,21 +156,3 @@ My favorite applications are pinned below the "Technologies" section.
   </a>
   
 </p>
-
-#### Design & Content Creation
-
-<p>
-  
-  <a href="https://www.canva.com/">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.gimp.org/">
-    <img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-  </a>
-  
-  <a href="https://wordpress.com/">
-    <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  </a>
-  
-</p>
