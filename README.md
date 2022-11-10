@@ -8,16 +8,13 @@
                                              
 <div align="left">  
   
-  Hi! I'm Hayley. I'm a software engineer who helps build cloud-based process data management & analysis software & also has a passion for art & design.
+  Hi! I'm Hayley, a software engineer who works on cloud-based data analysis software by day, plus whatever other strange side-projects or tools are inspiring me by night.
   
-  This is my personal account, which I use to learn new skills and create just-for-fun projects. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
+  This is my personal account. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
                                                 
   <p>
       <a href="https://www.linkedin.com/in/hayleywitherell/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-      <a href="mailto:hayleywitherell@mail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
-  
-My favorite applications are pinned below the "Technologies" section.
   
 </div>
                                                
@@ -74,6 +71,10 @@ My favorite applications are pinned below the "Technologies" section.
 #### Tools
 
 <p>
+
+  <a href="https://circleci.com/">
+    <img alt="CircleCI" src="https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
+  </a>
   
   <a href="https://eslint.org/">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
@@ -108,6 +109,10 @@ My favorite applications are pinned below the "Technologies" section.
 #### Testing
 
 <p>
+
+  <a href="https://github.com/teamcapybara/capybara/">
+    <img alt="Capybara" src="https://img.shields.io/badge/Capybara-FF7139?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  </a>
   
   <a href="https://www.chaijs.com/">
     <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
@@ -136,11 +141,7 @@ My favorite applications are pinned below the "Technologies" section.
   </a>
   
   <a href="https://codepen.io/">
-    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
-  </a>
-  
-  <a href="https://www.google.com/chrome/">
-    <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-%23E5E5E5?style=for-the-badge&logo=codepen&logoColor=black"/>
   </a>
   
   <a href="https://nodejs.org/en/">
@@ -156,3 +157,4 @@ My favorite applications are pinned below the "Technologies" section.
   </a>
   
 </p>
+
