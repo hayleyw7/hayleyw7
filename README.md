@@ -13,7 +13,15 @@
   This is my personal account. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
                                                 
   <p>
-      <a href="https://www.linkedin.com/in/hayleywitherell/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+
+     <a href="https://www.linkedin.com/in/hayleywitherell/">
+      <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
+    </a>
+
+    <a href="https://ko-fi.com/hayleyw7">
+      <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
+    </a>
+    
   </p>
   
 </div>
