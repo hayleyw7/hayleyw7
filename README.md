@@ -129,4 +129,7 @@
   <a href="https://code.visualstudio.com/">
     <img alt="VS Code" src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/windows/">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  </a>
 </p>
