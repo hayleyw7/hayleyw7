@@ -42,6 +42,9 @@
   <a href="https://jquery.com/">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   </a>
+  <a href="https://www.lua.org/">
+    <img alt="Lua" src="https://img.shields.io/badgelua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+  </a>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
