@@ -1,10 +1,10 @@
 # [![HEADER](./github-banner-hayley.png)](https://www.linkedin.com/in/hayleywitherell/)
 
-### Introduction
-
 <p align="right">
   <img align="right" alt="Hayley's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">
 </p>
+
+### Introduction
                                              
 <div align="left">  
   I'm a software engineer who works on cloud-based data analysis software by day, plus whatever other strange side-projects or tools are inspiring me by night.
