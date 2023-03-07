@@ -1,16 +1,18 @@
 # [![HEADER](./github-banner-hayley.png)](https://www.linkedin.com/in/hayleywitherell/)
 
-<p align="right">
-  <img align="right" alt="Hayley's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">
-</p>
-
 ### Introduction
+
+<div align="right">
+  <img align="right" alt="Hayley's GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">
+</div>
                                              
-<div align="left">  
-  I'm a software engineer who works on cloud-based data analysis software by day, plus whatever other strange side-projects or tools are inspiring me by night.
-  
-  This is my personal account. My work account is [@hwitherellIDBS](https://github.com/hwitherellidbs).
-                                                
+<div align="left">
+  <p>
+  I'm a software engineer who works on cloud-based data analysis software by day on my work account, plus whatever other strange side-projects or tools are inspiring me by night on this account.
+  </p>
+  <p>
+  While being classically trained in front-end engineering through school, I'm also actively working to become full-stack through increased back-end tickets at work & casually modding video games.
+  </p>          
   <p>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
