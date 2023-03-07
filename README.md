@@ -8,7 +8,7 @@
                                              
 <div align="left">
   <p>
-  I'm a software engineer who uses my work account for cloud-based data analysis software by day, plus whatever strange side-projects or tools are inspiring me by night on this account.
+  I'm a software engineer who works cloud-based data analysis software by day, plus whatever strange side-projects or tools are inspiring me by night.
   </p>
   <p>
   While being classically trained in front-end engineering through school, I'm also actively working to become full-stack through increased back-end tickets at work & casually modding video games.
