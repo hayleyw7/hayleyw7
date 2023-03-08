@@ -26,11 +26,12 @@
 ---
 
 ### Technologies
-#### Languages & Frameworks
 
 <div align="right">
   <img align="right" alt="Hayley's GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&hide_progress=true">
 </div>
+
+#### Languages & Frameworks
 
 <p>
   <a href="https://getbootstrap.com/docs/4.0/content/code/">
