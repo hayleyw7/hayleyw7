@@ -3,7 +3,7 @@
 ### Introduction
 
 <div align="right">
-  <img align="right" alt="Hayley's GitHub stats" width="350" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&theme=merko">
+  <img align="right" alt="Hayley's GitHub stats" width="350" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&count_private=true&theme=merko">
 </div>
                                              
 <div align="left">
