@@ -3,7 +3,7 @@
 ### Introduction
 
 <div align="right">
-  <img align="right" alt="Hayley's GitHub stats" width="350" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&count_private=true&theme=merko">
+  <img align="right" alt="Hayley's GitHub Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true">
 </div>
                                              
 <div align="left">
@@ -27,6 +27,10 @@
 
 ### Technologies
 #### Languages & Frameworks
+
+<div align="right">
+  <img align="right" alt="Hayley's GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&hide_progress=true">
+</div>
 
 <p>
   <a href="https://getbootstrap.com/docs/4.0/content/code/">
