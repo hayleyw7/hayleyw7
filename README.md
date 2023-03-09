@@ -1,10 +1,10 @@
-# [![HEADER](./github-banner-hayley.png)](https://www.linkedin.com/in/hayleywitherell/)
-
-### Introduction
-
-<div align="right">
+ # [![HEADER](./github-banner-hayley.png)](https://www.linkedin.com/in/hayleywitherell/)
+ 
+ <div align="right">
   <img align="right" alt="Hayley's GitHub Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&hide=contribs&include_all_commits=true">
 </div>
+
+### Introduction
                                              
 <div align="left">
   <p>
@@ -25,11 +25,11 @@
                                                
 ---
 
-### Technologies
-
 <div align="right">
   <img align="right" alt="Hayley's GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=8&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell">
 </div>
+
+### Technologies
 
 #### Languages & Frameworks
 
