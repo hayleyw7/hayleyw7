@@ -67,6 +67,9 @@
   <a href="https://www.slimframework.com/">
     <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
+  <a href="https://www.slimframework.com/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
 </p>
 
 #### Tools
