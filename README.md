@@ -26,7 +26,7 @@
 ---
 
 <div align="right">
-  <img align="right" alt="Hayley's GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=6&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell">
+  <img align="right" alt="Hayley's GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=7&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell">
 </div>
 
 ### Technologies
