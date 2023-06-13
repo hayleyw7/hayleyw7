@@ -1,7 +1,7 @@
  # [![HEADER](./github-banner-hayley.png)](https://www.linkedin.com/in/hayleywitherell/)
  
  <div align="right">
-  <img align="right" alt="Hayley's GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&hide_rank=true&hide=contribs">
+  <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&hide_rank=true&hide=contribs">
 </div>
 
 ### Introduction
