@@ -42,6 +42,9 @@
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
+   <a href="https://graphql.org/">
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/HTML5">
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
