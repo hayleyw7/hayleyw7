@@ -134,29 +134,3 @@
     <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   </a> 
 </p>
-
-#### Environments
-
-<p>
-  <a href="https://atom.io/">
-    <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-  </a>
-  <a href="https://www.apple.com/macos/">
-    <img alt="MacOS" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-  </a>
-  <a href="https://codepen.io/">
-    <img alt="CodePen" src="https://img.shields.io/badge/CodePen-%23E5E5E5?style=for-the-badge&logo=codepen&logoColor=black"/>
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img alt="Node.js" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  </a>
-  <a href="https://replit.com/">
-    <img alt="Repl.it" src="https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows/">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </a>
-</p>
