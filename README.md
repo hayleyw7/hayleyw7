@@ -3,7 +3,7 @@
 ---
  
  <div align="right">
-  <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&hide_rank=true&hide=contribs">
+  <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs">
 </div>
 
 ### Introduction
