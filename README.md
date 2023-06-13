@@ -77,6 +77,15 @@
 #### Tools
 
 <p>
+   <a href="https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html">
+    <img alt="blackduck" src="https://img.shields.io/badge/blackduck-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white"/>
+  </a>
+   <a href="https://brakemanscanner.org/">
+    <img alt="Brakeman" src="https://img.shields.io/badge/Brakeman-795C34?style=for-the-badge&logo=dependabot&logoColor=white"/>
+  </a>
+  <a href="https://bundler.io/">
+    <img alt="bundler" src="https://img.shields.io/badge/Bundler-40A0E0?style=for-the-badge&logo=dependabot&logoColor=white"/>
+  </a>
   <a href="https://circleci.com/">
     <img alt="CircleCI" src="https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
   </a>
@@ -100,6 +109,9 @@
   </a>
   <a href="https://surge.sh/">
     <img alt="Surge" src="https://img.shields.io/badge/Surge-%232E7EEA.svg?style=for-the-badge&logo=strapi"/>
+  </a>
+  <a href="https://www.veracode.com/">
+    <img alt="veracode" src="https://img.shields.io/badge/veracode-58CCED.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
   </a>
 </p>
 
