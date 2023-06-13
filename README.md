@@ -14,7 +14,7 @@
   While being classically trained in front-end engineering through school, I'm also actively working to become full-stack through increased back-end tickets at work & casually modding video games.
   </p>          
   <p>
-    <a href="https://www.linkedin.com/in/hayleywitherell/">
+    <a href="https://www.linkedin.com/in/\witherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
     </a>
     <a href="https://ko-fi.com/hayleyw7/">
@@ -26,7 +26,7 @@
 ---
 
 <div align="right">
-  <img align="right" alt="Hayley's GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=6&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell,Slim">
+  <img align="right" alt="GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=6&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell,Slim">
 </div>
 
 ### Technologies
