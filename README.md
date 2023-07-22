@@ -134,3 +134,7 @@
     <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   </a> 
 </p>
+
+---
+
+_Dynamically generated [Stats & Language cards](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/)_
