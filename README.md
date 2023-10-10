@@ -10,7 +10,7 @@
                                              
 <div align="left">
   <p>
-  I'm a software engineer who works cloud-based data analysis software by day, plus whatever strange side-projects or tools are inspiring me by night.
+  I'm a software engineer who, by day, is an instructor at a Code The Dream and has engineered on cloud-based data analysis software, plus whatever strange side-projects or tools are inspiring me by night.
   </p>
   <p>
   While being classically trained in front-end engineering through school, I'm also actively working to become full-stack through increased back-end tickets at work & casually modding video games.
