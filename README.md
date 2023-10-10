@@ -10,26 +10,37 @@
                                              
 <div align="left">
   <p>
-  I'm a software engineer who works cloud-based data analysis software by day, plus whatever strange side-projects or tools are inspiring me by night.
+  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-profit code school. Committed to accessibility and inclusivity.
   </p>
   <p>
-  While being classically trained in front-end engineering through school, I'm also actively working to become full-stack through increased back-end tickets at work & casually modding video games.
-  </p>          
+  I am currently seeking my next opportunity. To join forces, please peruse my background & socials just below.
+  </p>
   <p>
+   <a href="https://github.com/hayleyw7/resume/">
+     <img alt="resume" src="https://img.shields.io/badge/resume-red.svg?style=for-the-badge&logo=adobe&logoColor=white">
+   </a>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
     </a>
+    <a href="https://wellfound.com/u/hayley-witherell/">
+      <img alt="linkedin" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
+    </a>    
+    <a href="https://profile.indeed.com/p/hayleyw-s6otd13/">
+      <img alt="linkedin" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
+    </a>
+    <a href="https://replit.com/@hayleyw7">
+      <img alt="replit" src="https://img.shields.io/badge/Replit-F26208?style=for-the-badge&logo=Replit&logoColor=white"/>
+    </a>
     <a href="https://ko-fi.com/hayleyw7/">
       <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
+    </a>
+    <a href="mailto:hayleywitherell@gmail.com">
+      <img alt="kofi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
 </div>
                                                
 ---
-
-<div align="right">
-  <img align="right" alt="GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=6&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell,Slim">
-</div>
 
 ### Technologies
 
