@@ -22,6 +22,9 @@
     <a href="https://ko-fi.com/hayleyw7/">
       <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
     </a>
+    <a href="https://replit.com/@hayleyw7">
+      <img alt="replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
+    </a>
   </p>
 </div>
                                                
