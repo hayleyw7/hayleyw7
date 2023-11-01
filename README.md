@@ -10,11 +10,12 @@
                                              
 <div align="left">
   <p>
-  I'm a software engineer who, by day, is an instructor at a Code The Dream and has engineered on cloud-based data analysis software. During evenings, I work on whatever strange side-projects or tools are inspiring me.
+  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-
+profit code school. Committed to accessibility and inclusivity.
   </p>
   <p>
-  While being classically trained in front-end engineering through school, I'm also actively working to become full-stack through increased back-end tickets at work & casually modding video games.
-  </p>          
+  Currently looking for a role, so please peruse my [resume & references](https://github.com/hayleyw7/resume/) if you're considering joining forces!
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
