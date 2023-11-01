@@ -13,7 +13,7 @@
   Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-profit code school. Committed to accessibility and inclusivity.
   </p>
   <p>
-  Currently seeking my next opportunity, so please peruse my background, socials, & references just below to join forces!
+  I am currently seeking my next opportunity. To join forces, please peruse my background & socials just below.
   </p>
   <p>
    <a href="https://github.com/hayleyw7/resume/">
