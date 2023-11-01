@@ -10,7 +10,7 @@
                                              
 <div align="left">
   <p>
-  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non- profit code school. Committed to accessibility and inclusivity.
+  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-profit code school. Committed to accessibility and inclusivity.
   </p>
   <p>
   Currently seeking my next opportunity, so please peruse my background, socials, & references just below to join forces!
