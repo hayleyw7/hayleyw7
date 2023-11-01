@@ -10,21 +10,26 @@
                                              
 <div align="left">
   <p>
-  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-
-profit code school. Committed to accessibility and inclusivity.
+  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non- profit code school. Committed to accessibility and inclusivity.
   </p>
   <p>
-  Currently looking for a new role, so please peruse my background & references if you're considering joining forces! https://github.com/hayleyw7/resume/
+  Currently seeking my next opportunity, so please peruse my background, socials, & references just below to join forces!
   </p>
   <p>
+   <a href="https://github.com/hayleyw7/resume/">
+     <img alt="resume" src="https://img.shields.io/badge/resume-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+   </a>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
     </a>
+    <a href="https://wellfound.com/u/hayley-witherell/">
+      <img alt="linkedin" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
+    </a>    
+    <a href="https://replit.com/@hayleyw7">
+      <img alt="replit" src="https://img.shields.io/badge/Replit-F26208?style=for-the-badge&logo=Replit&logoColor=white"/>
+    </a>
     <a href="https://ko-fi.com/hayleyw7/">
       <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
-    </a>
-    <a href="https://replit.com/@hayleyw7">
-      <img alt="replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
     </a>
   </p>
 </div>
