@@ -30,10 +30,6 @@
                                                
 ---
 
-<div align="right">
-  <img align="right" alt="GitHub Languages" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayleyw7&layout=compact&langs_count=6&hide=Java,Makefile,Mustache,Dockerfile,PHP,Shell,Slim">
-</div>
-
 ### Technologies
 
 #### Languages & Frameworks
