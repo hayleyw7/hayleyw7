@@ -14,7 +14,7 @@
 profit code school. Committed to accessibility and inclusivity.
   </p>
   <p>
-  Currently looking for a new role, so please peruse my background & references if you're considering joining forces! [hayleyw7/resume](https://github.com/hayleyw7/resume/).
+  Currently looking for a new role, so please peruse my background & references if you're considering joining forces! https://github.com/hayleyw7/resume/
   </p>
   <p>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
