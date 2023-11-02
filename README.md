@@ -1,7 +1,7 @@
 [![HEADER](./banners/glitch/banner-glitch-header.png)](https://github.com/hayleyw7/)
 
  <div align="right">
-  <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs">
+  <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&theme=catppuccin_latte&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs">
 </div>
 
 ### Introduction
@@ -145,4 +145,4 @@
 
 [![FOOTER](./banners/glitch/banner-glitch-footer.png)](https://github.com/hayleyw7/)
 
-_Dynamically generated [Stats & Language cards](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/)_
+_[Stats Card](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/) | [Markdown Badges](https://github.com/Ileriayo/markdown-badges) created by [Ileriayo](https://github.com/Ileriayo)_
