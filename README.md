@@ -1,4 +1,4 @@
-[![HEADER](./github-banner-hayley.png)](https://www.linkedin.com/in/hayleywitherell/)
+[![HEADER](./banner-glitch.png)](https://github.com/hayleyw7/)
  
 ---
  
