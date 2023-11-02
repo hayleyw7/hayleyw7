@@ -1,6 +1,8 @@
-[![HEADER](./banners/glitch/banner-glitch-header.png)](#)
+<picture>
+  <img alt="header" src="./banners/glitch/banner-glitch-header.png">
+</picture>
 
- <div align="right">
+<div align="right">
   <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&theme=catppuccin_latte&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs">
 </div>
 
@@ -38,7 +40,9 @@
   </p>
 </div>
 
-[![HEADER](./banners/glitch/banner-glitch-div-2.png)](#)
+<picture>
+  <img alt="div" src="./banners/glitch/banner-glitch-div-2.png">
+</picture>
 
 ### Technologies
 
@@ -144,6 +148,8 @@
   </a> 
 </p>
 
-[![FOOTER](./banners/glitch/banner-glitch-footer.png)](#)
+<picture>
+  <img alt="header" src="./banners/glitch/banner-glitch-footer.png">
+</picture>
 
 _[Stats Card](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/) | [Markdown Badges](https://github.com/Ileriayo/markdown-badges) created by [Ileriayo](https://github.com/Ileriayo)_
