@@ -39,6 +39,7 @@
 </div>
 
 [![HEADER](./banners/glitch/banner-glitch-div-2.png)](https://github.com/hayleyw7/)
+
 ### Technologies
 
 #### Languages & Frameworks
