@@ -1,4 +1,4 @@
-[![HEADER](./banner-glitch.png)](https://github.com/hayleyw7/)
+[![HEADER](./banner-glitch-cropped.png)](https://github.com/hayleyw7/)
  
 ---
  
