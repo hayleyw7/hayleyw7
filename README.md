@@ -148,8 +148,6 @@
 
 ---
 
-_Dynamically generated [Stats & Language cards](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/)_
-
----
-
 [![FOOTER](./banner-glitch-cropped-footer.png)](https://github.com/hayleyw7/)
+
+_Dynamically generated [Stats & Language cards](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/)_
