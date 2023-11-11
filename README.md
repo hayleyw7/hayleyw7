@@ -90,6 +90,9 @@
 #### Tools
 
 <p>
+   <a href="https://developer.android.com/studio">
+    <img alt="android studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+   </a>
    <a href="https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html">
     <img alt="blackduck" src="https://img.shields.io/badge/blackduck-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white"/>
   </a>
@@ -104,6 +107,9 @@
   </a>
   <a href="https://eslint.org/">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+  </a>
+  <a href="https://flutter.dev/">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   </a>
   <a href="https://github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
