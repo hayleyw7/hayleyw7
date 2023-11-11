@@ -91,7 +91,7 @@
 
 <p>
    <a href="https://developer.android.com/studio">
-    <img alt="android studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+    <img alt="android studio" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
    </a>
    <a href="https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html">
     <img alt="blackduck" src="https://img.shields.io/badge/blackduck-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white"/>
