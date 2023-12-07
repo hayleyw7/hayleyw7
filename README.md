@@ -10,10 +10,10 @@
                                              
 <div align="left">
   <p>
-  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-profit code school. Committed to accessibility and inclusivity.
+    Driven software engineer who possesses the ability to see the big picture and leverage detail orientation to actively learn new technologies and methodologies. Dedicated to crafting and teaching efficient, maintainable code that follows current best practices, with a strong focus on accessibility and inclusivity.
   </p>
-  <p>
-  I am currently seeking my next opportunity. To join forces, please peruse my background & socials just below.
+  <p> 
+    Software developer at <a href="https://github.com/CGCookie">Autotroph</a>. Founder of <a href="https://github.com/nd-in-tech">Neurodiversity In Tech</a>. Volunteer at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
   </p>
   <p>
    <a href="https://github.com/hayleyw7/resume/">
@@ -21,18 +21,6 @@
    </a>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
-    </a>
-    <a href="https://wellfound.com/u/hayley-witherell/">
-      <img alt="linkedin" src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
-    </a>    
-    <a href="https://profile.indeed.com/p/hayleyw-s6otd13/">
-      <img alt="linkedin" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
-    </a>
-    <a href="https://replit.com/@hayleyw7">
-      <img alt="replit" src="https://img.shields.io/badge/Replit-F26208?style=for-the-badge&logo=Replit&logoColor=white"/>
-    </a>
-    <a href="https://g.dev/hayleyw7/">
-      <img alt="google developer profile" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
     </a>
     <a href="https://ko-fi.com/hayleyw7/">
       <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
@@ -70,6 +58,9 @@
   <a href="https://jquery.com/">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   </a>
+  <a href="https://nextjs.org/">
+    <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
   <a href="https://www.lua.org/">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
@@ -87,6 +78,12 @@
   </a>
   <a href="https://www.slimframework.com/">
     <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
 </p>
 
@@ -135,6 +132,9 @@
   <a href="https://www.veracode.com/">
     <img alt="veracode" src="https://img.shields.io/badge/veracode-58CCED.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
   </a>
+  <a href="https://vercel.com/">
+    <img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white/"/>
+  </a>
 </p>
 
 #### Testing
@@ -144,7 +144,7 @@
     <img alt="Capybara" src="https://img.shields.io/badge/Capybara-40826D?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
   <a href="https://www.chaijs.com/">
-    <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
+    <img alt="Chai" src="https://img.shields.io/badge/-chai-%23E0C6AD?&style=for-the-badge&logo=mocha&logoColor=black"/>
   </a>
   <a href="https://www.cypress.io/">
     <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
