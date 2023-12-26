@@ -67,6 +67,9 @@
   <a href="https://jquery.com/">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   </a>
+  <a href="https://nextjs.org/">
+    <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
   <a href="https://www.lua.org/">
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
@@ -84,6 +87,12 @@
   </a>
   <a href="https://www.slimframework.com/">
     <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
 </p>
 
