@@ -141,6 +141,9 @@
   <a href="https://www.veracode.com/">
     <img alt="veracode" src="https://img.shields.io/badge/veracode-58CCED.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
   </a>
+  <a href="https://vercel.com/">
+    <img alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white/"/>
+  </a>
 </p>
 
 #### Testing
