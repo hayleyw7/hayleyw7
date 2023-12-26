@@ -10,7 +10,7 @@
                                              
 <div align="left">
   <p>
-  Mid-Level Front-End/Full-Stack Developer. Accomplished in HTML, CSS, JavaScript, React, Ruby on Rails, and agile workflows. Instructor at non-profit code school. Committed to accessibility and inclusivity.
+    Driven developer who possesses the ability to see the big picture and leverage detail orientation to actively learn new technologies and methodologies. Dedicated to crafting and teaching efficient, maintainable code that follows current best practices, with a strong focus on accessibility and inclusivity. Passionate about learning new tech, instructing students at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>, and contributing to <a href="https://github.com/PhitNest">PhitNest</a> OSS.
   </p>
   <p>
   I am currently seeking my next opportunity. To join forces, please peruse my background & socials just below.
