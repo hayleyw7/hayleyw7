@@ -10,10 +10,7 @@
                                              
 <div align="left">
   <p>
-    Driven developer who possesses the ability to see the big picture and leverage detail orientation to actively learn new technologies and methodologies. Dedicated to crafting and teaching efficient, maintainable code that follows current best practices, with a strong focus on accessibility and inclusivity.
-  </p>
-  <p>
-    Founded <a href="https://www.linkedin.com/company/nd-in-tech">Neurodiversity In Tech</a>. Passionate about learning new languages/tools, instructing students at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>, and contributing to <a href="https://github.com/PhitNest">PhitNest</a> OSS.
+    Driven developer who possesses the ability to see the big picture and leverage detail orientation to actively learn new technologies and methodologies. Dedicated to crafting and teaching efficient, maintainable code that follows current best practices, with a strong focus on accessibility and inclusivity. Founded <a href="https://www.linkedin.com/company/nd-in-tech">Neurodiversity In Tech</a>. Passionate about learning new languages/tools, instructing students at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>, and contributing to <a href="https://github.com/PhitNest">PhitNest</a> OSS.
   </p>
   <p>
   I am currently seeking my next opportunity. To join forces, please peruse my background & socials just below.
