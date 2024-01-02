@@ -24,12 +24,6 @@
    </a>
     <a href="https://www.linkedin.com/in/hayleywitherell/">
       <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
-    </a> 
-    <a href="https://replit.com/@hayleyw7">
-      <img alt="replit" src="https://img.shields.io/badge/Replit-F26208?style=for-the-badge&logo=Replit&logoColor=white"/>
-    </a>
-    <a href="https://g.dev/hayleyw7/">
-      <img alt="google developer profile" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
     </a>
     <a href="https://ko-fi.com/hayleyw7/">
       <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
