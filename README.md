@@ -13,7 +13,7 @@
     Driven software engineer who possesses the ability to see the big picture and leverage detail orientation to actively learn new technologies and methodologies. Dedicated to crafting and teaching efficient, maintainable code that follows current best practices, with a strong focus on accessibility and inclusivity.
   </p>
   <p> 
-    Develops software at <a href="https://github.com/CGCookie">Autotroph>/a>. Founded <a href="https://www.linkedin.com/company/nd-in-tech">Neurodiversity In Tech</a>. Passionate about learning new languages/tools and instructing new students at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
+    Develops software at <a href="https://github.com/CGCookie">Autotroph</a>. Founded <a href="https://www.linkedin.com/company/nd-in-tech">Neurodiversity In Tech</a>. Passionate about learning new languages/tools and instructing new students at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
   </p>
   <p>
    <a href="https://github.com/hayleyw7/resume/">
