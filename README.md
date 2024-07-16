@@ -2,34 +2,30 @@
   <img alt="header" src="./banners/glitch/banner-glitch-header.png">
 </picture>
 
-<div align="right">
-  <img align="right" alt="GitHub Stats" width="260" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&theme=catppuccin_latte&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs">
-</div>
+<p>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hayleyw7&theme=catppuccin_latte&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs&custom_title=Welcome%20to%20Hayley's%20GitHub%20Profile!" style="float: right; margin: 0 0 1em 1em; max-width: 260px; width: 100%;">
+</p>
 
 ### Introduction
-                                             
-<div align="left">
-  <p>
-    Driven software engineer who possesses the ability to see the big picture and leverage detail orientation to actively learn new technologies and methodologies. Dedicated to crafting and teaching efficient, maintainable code that follows current best practices, with a strong focus on accessibility and inclusivity.
-  </p>
-  <p> 
-    Software developer at <a href="https://github.com/CGCookie">Autotroph</a>. Founder of <a href="https://github.com/nd-in-tech">Neurodiversity In Tech</a>. Volunteer at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
-  </p>
-  <p>
-   <a href="https://github.com/hayleyw7/resume/">
-     <img alt="resume" src="https://img.shields.io/badge/resume-red.svg?style=for-the-badge&logo=adobe&logoColor=white">
-   </a>
-    <a href="https://www.linkedin.com/in/hayleywitherell/">
-      <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
-    </a>
-    <a href="https://ko-fi.com/hayleyw7/">
-      <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
-    </a>
-    <a href="mailto:hayleywitherell@gmail.com">
-      <img alt="kofi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-</div>
+
+<p>
+  Versatile developer continuously learning new tech and methods. Able to thrive independently in high pressure environments. Known as "glue" that holds teams together in remote settings, ensuring every team member's voice is valued and contributes to collective objectives.
+</p>
+
+<p> 
+  Software developer at <a href="https://github.com/CGCookie">Autotroph</a>. Founder of <a href="https://github.com/nd-in-tech">Neurodiversity In Tech</a>. Volunteer at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/hayleywitherell/">
+    <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
+  </a>
+  <a href="https://ko-fi.com/hayleyw7/">
+    <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
+  </a>
+  <a href="mailto:hayleywitherell@gmail.com">
+    <img alt="kofi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <picture>
   <img alt="div" src="./banners/glitch/banner-glitch-div-2.png">
@@ -46,9 +42,6 @@
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-   <a href="https://graphql.org/">
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/HTML5">
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
@@ -57,12 +50,6 @@
   </a>
   <a href="https://jquery.com/">
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  </a>
-  <a href="https://nextjs.org/">
-    <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  </a>
-  <a href="https://www.lua.org/">
-    <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -79,20 +66,11 @@
   <a href="https://www.slimframework.com/">
     <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
-  <a href="https://tailwindcss.com/">
-    <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
 </p>
 
 #### Tools
 
 <p>
-   <a href="https://developer.android.com/studio">
-    <img alt="android studio" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-   </a>
    <a href="https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html">
     <img alt="blackduck" src="https://img.shields.io/badge/blackduck-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white"/>
   </a>
@@ -107,9 +85,6 @@
   </a>
   <a href="https://eslint.org/">
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
-  </a>
-  <a href="https://flutter.dev/">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   </a>
   <a href="https://github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
