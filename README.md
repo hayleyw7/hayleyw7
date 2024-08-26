@@ -16,6 +16,10 @@
   Engaged software engineer who's always actively learning new technologies and methodologies. Able to both thrive independently and collaborate in high pressure environments. Known as "glue" that holds remote teams together, ensuring every team member's voice is valued and contributes to collective objectives, both personally and professionally.
 </p>
 
+<p>
+  My GitHub showcases a diverse range of projects, including professional work, experimental side projects, game modifications, skill-building tutorials, academic assignments, and materials developed for teaching and mentoring students.
+</p>
+
 <p> 
   Software developer at <a href="https://github.com/CGCookie">Autotroph</a>. Founder of <a href="https://github.com/nd-in-tech">Neurodiversity In Tech</a>. Volunteer at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
 </p>
