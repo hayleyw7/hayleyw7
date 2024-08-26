@@ -13,7 +13,7 @@
 ### Introduction
 
 <p>
-  Versatile developer continuously learning new tech and methods. Able to thrive independently in high pressure environments. Known as "glue" that holds teams together in remote settings, ensuring every team member's voice is valued and contributes to collective objectives.
+  Engaged software engineer who's always actively learning new technologies and methodologies. Able to both thrive independently and collaborate in high pressure environments. Known as "glue" that holds remote teams together, ensuring every team member's voice is valued and contributes to collective objectives, both personally and professionally.
 </p>
 
 <p> 
