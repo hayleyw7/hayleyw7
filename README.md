@@ -13,7 +13,7 @@
 ### Introduction
 
 <p>
-  Engaged software engineer who's always actively learning new technologies and methodologies. Thrives both independently and collaboratively in high pressure environments. Known as "glue" that holds remote teams together, ensuring every team member's voice is valued and contributes to collective objectives, both personally and professionally.
+  Quirky and resourceful software engineer who's always actively learning new technologies and methodologies. Thrives both independently and collaboratively in high pressure environments. Known as "glue" that holds remote teams together, ensuring every team member's voice is valued and contributes to collective objectives, both personally and professionally.
 </p>
 
 <p>
