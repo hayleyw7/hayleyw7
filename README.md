@@ -5,7 +5,7 @@
 <p>
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=hayleyw7&theme=catppuccin_latte&show_icons=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=hayleyw7&theme=catppuccin_latte&show_icons=true&hide_rank=true&hide=stars,issues,contribs&include_all_commits=true&show=reviews"
     style="float: right; margin: 0 0 1em 1em; max-width: 260px; width: 100%;"
   />
 </p>
