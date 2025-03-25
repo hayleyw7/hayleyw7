@@ -10,8 +10,6 @@
   />
 </p>
 
-### Introduction
-
 <p>
   GitHub showcases diverse range of projects, including professional work, experimental side projects, game modifications, skill-building tutorials, academic assignments, and materials developed for teaching and mentoring students.
 </p>
