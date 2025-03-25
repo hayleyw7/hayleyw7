@@ -14,10 +14,6 @@
   GitHub showcases diverse range of projects, including professional work, experimental side projects, game modifications, skill-building tutorials, academic assignments, and materials developed for teaching and mentoring students.
 </p>
 
-<picture>
-  <img alt="div" src="./banners/glitch/banner-glitch-div-2.png">
-</picture>
-
 ### Technologies
 
 #### Languages & Frameworks
