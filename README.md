@@ -13,26 +13,7 @@
 ### Introduction
 
 <p>
-  Quirky and resourceful software engineer who's always actively learning new technologies and methodologies. Thrives both independently and collaboratively in high pressure environments. Known as "glue" that holds remote teams together, ensuring every team member's voice is valued and contributes to collective objectives, both personally and professionally.
-</p>
-
-<p>
   GitHub showcases diverse range of projects, including professional work, experimental side projects, game modifications, skill-building tutorials, academic assignments, and materials developed for teaching and mentoring students.
-</p>
-
-<p> 
-  Software developer at <a href="https://github.com/CGCookie">Autotroph</a>. Founder of <a href="https://github.com/nd-in-tech">Neurodiversity In Tech</a>. Volunteer at <a href="https://github.com/Code-the-Dream-School">Code The Dream</a>.
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/hayleywitherell/">
-    <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/>
-  </a>
-  <a href="https://ko-fi.com/hayleyw7/">
-    <img alt="kofi" src="https://img.shields.io/badge/-Kofi-white.svg?style=for-the-badge&logo=kofi&colorB=323B43"/>
-  </a>
-  <a href="mailto:hayleywitherell@gmail.com">
-    <img alt="kofi" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <picture>
