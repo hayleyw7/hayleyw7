@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://getbootstrap.com/docs/4.0/content/code/">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bs-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
     <img alt="CSS3" src="https://img.shields.io/badge/css-%230056D2.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
