@@ -18,7 +18,7 @@
     <img alt="CSS3" src="https://img.shields.io/badge/css-%230056D2.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
   </a>
   <a href="https://www.cypress.io/">
-    <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%00A162?style=for-the-badge&logo=cypress&logoColor=white"/>
+    <img alt="Cypress" src="https://img.shields.io/badge/-cypress-00A162?style=for-the-badge&logo=cypress&logoColor=white"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
