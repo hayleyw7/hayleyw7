@@ -11,10 +11,6 @@
 </p>
 
 <p>
-  GitHub showcases diverse range of projects, including professional work, experimental side projects, game modifications, browser extensions, skill-building tutorials, academic assignments, and materials developed for teaching and mentoring students.
-</p>
-
-<p>
   <a href="https://getbootstrap.com/docs/4.0/content/code/">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
