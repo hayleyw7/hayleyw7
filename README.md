@@ -57,9 +57,6 @@
   <a href="https://sass-lang.com/">
     <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
-  <a href="https://www.slimframework.com/">
-    <img alt="Slim" src="https://img.shields.io/badge/Slim-0078D7?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  </a>
   <a href="https://jestjs.io/">
     <img alt="TravisCI" src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
   </a>
