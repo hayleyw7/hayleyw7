@@ -42,9 +42,6 @@
   <a href="https://mochajs.org/">
     <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
   </a>
-  <a href="https://www.npmjs.com/">
-    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  </a>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
