@@ -19,7 +19,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS#CSS_3">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%230056D2.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%230056D2.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
   <a href="https://www.cypress.io/">
     <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
