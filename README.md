@@ -47,6 +47,4 @@
   <img alt="header" src="./banners/glitch/banner-glitch-footer.png">
 </picture>
 
-<p align=center>
-  _[Stats Card](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/) | [Markdown Badges](https://github.com/Ileriayo/markdown-badges) created by [Ileriayo](https://github.com/Ileriayo)_
-</p>
+_[Stats Card](https://github.com/anuraghazra/github-readme-stats/) created by [anuraghazra](https://github.com/anuraghazra/) | [Markdown Badges](https://github.com/Ileriayo/markdown-badges) created by [Ileriayo](https://github.com/Ileriayo)_
