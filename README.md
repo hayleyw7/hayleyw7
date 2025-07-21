@@ -10,7 +10,7 @@
   />
 </p>
 
-<p>
+<p align=center>
   <a href="https://getbootstrap.com/docs/4.0/content/code/">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bs-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
