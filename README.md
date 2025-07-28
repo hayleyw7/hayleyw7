@@ -7,9 +7,7 @@
 </div>
 
 <div align="center">
-  <em>
-    <a href="https://github.com/anuraghazra/github-readme-stats/">Stats Card</a> by <a href="https://github.com/anuraghazra/">anuraghazra</a> |
-    <a href="https://github.com/Ileriayo/markdown-badges">Markdown Badges</a> by <a href="https://github.com/Ileriayo">Ileriayo</a> |
-    <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">README</a> by <a href="https://github.com/hayleyw7">hayleyw7</a>
-  </em>
+  <a href="https://github.com/anuraghazra/github-readme-stats/">Stats Card</a> by <a href="https://github.com/anuraghazra/">anuraghazra</a> |
+  <a href="https://github.com/Ileriayo/markdown-badges">Markdown Badges</a> by <a href="https://github.com/Ileriayo">Ileriayo</a> |
+  <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme">README</a> by <a href="https://github.com/hayleyw7">hayleyw7</a>
 </div>
