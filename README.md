@@ -10,7 +10,7 @@
   />
 </p>
 
-<p align=center>
+<div align=center>
   <a href="https://getbootstrap.com/docs/4.0/content/code/">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bs-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
@@ -41,7 +41,7 @@
   <a href="https://sass-lang.com/">
     <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
-</p>
+</div>
 
 <picture>
   <img alt="header" src="./banners/glitch/banner-glitch-footer.png">
