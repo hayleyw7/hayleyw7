@@ -12,7 +12,3 @@
     <a href="https://github.com/Ileriayo/markdown-badges">Markdown Badges</a> created by <a href="https://github.com/Ileriayo">Ileriayo</a>
   </em>
 </div>
-
-<picture>
-  <img alt="header" src="./banners/glitch/banner-glitch-footer.png">
-</picture>
